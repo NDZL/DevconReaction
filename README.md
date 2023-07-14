@@ -3,7 +3,7 @@
 #FEATURES
 
 - Triggers Start Scan by pushing a button
-- Receives DW intent output and print it on the screen
+- Receives DW intent output and prints it on the screen
 
 # Getting Started
 
