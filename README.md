@@ -1,3 +1,10 @@
+### ZEBRA DEVCON 2023 - REACT NATIVE SAMPLE PROJECT INTEGRATING DATAWEDGE
+
+#FEATURES
+
+- Trigger Start Scan by pushing a button
+- Receive DW intent output and print it on the screen
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
