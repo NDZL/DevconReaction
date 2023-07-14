@@ -1,0 +1,8 @@
+REM NDZL JULY2023 - RUN THESE COMMANDS ONE BY ONE from the prj root 
+REM DO NOT EXECUTE AS SINGLE BATCH FILE
+
+npx react-native bundle --dev false --platform android --entry-file index.js --bundle-output ./android/app/src/main/assets/index.android.bundle --assets-dest ./android/app/src/main/res
+pause
+cd android
+gradlew assembleDebug
+pause
